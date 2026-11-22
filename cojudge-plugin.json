@@ -1,0 +1,9 @@
+{
+  "id": "basic-50",
+  "name": "Basic 50",
+  "version": "1.0.0",
+  "description": "50 original introductory problems for new programmers: if/else, loops, arrays, strings, nested loops and recursion. Start here before Blind 75.",
+  "homepage": "https://github.com/cojudge/basic-50",
+  "minCojudge": "0.10.0",
+  "unprefixedIds": true
+}
